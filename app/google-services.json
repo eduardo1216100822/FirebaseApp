@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "700655091947",
+    "firebase_url": "https://diario-8eca5.firebaseio.com",
+    "project_id": "diario-8eca5",
+    "storage_bucket": "diario-8eca5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700655091947:android:4375b5f45cc833a87b7eae",
+        "android_client_info": {
+          "package_name": "mx.com.miempresa.firebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "700655091947-nm9l2aq2pi8fa2igho2pgisji87uulkq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mx.com.miempresa.firebaseapp",
+            "certificate_hash": "b718a84fc95213dcff3a51c1f19ebcc5030e8440"
+          }
+        },
+        {
+          "client_id": "700655091947-499b17nq3ga2aj57shdg3k5tmp80l6ba.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0uQms4BC7HAB2NrvLyz7y_qtV7rrgQis"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "700655091947-499b17nq3ga2aj57shdg3k5tmp80l6ba.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
